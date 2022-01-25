@@ -1,0 +1,15 @@
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\bin\Debug\net6.0\P4DataTypes.exe
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\bin\Debug\net6.0\P4DataTypes.deps.json
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\bin\Debug\net6.0\P4DataTypes.runtimeconfig.json
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\bin\Debug\net6.0\P4DataTypes.dll
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\bin\Debug\net6.0\ref\P4DataTypes.dll
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\bin\Debug\net6.0\P4DataTypes.pdb
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\obj\Debug\net6.0\P4DataTypes.csproj.AssemblyReference.cache
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\obj\Debug\net6.0\P4DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\obj\Debug\net6.0\P4DataTypes.AssemblyInfoInputs.cache
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\obj\Debug\net6.0\P4DataTypes.AssemblyInfo.cs
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\obj\Debug\net6.0\P4DataTypes.csproj.CoreCompileInputs.cache
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\obj\Debug\net6.0\P4DataTypes.dll
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\obj\Debug\net6.0\ref\P4DataTypes.dll
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\obj\Debug\net6.0\P4DataTypes.pdb
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P4DataTypes\obj\Debug\net6.0\P4DataTypes.genruntimeconfig.cache
