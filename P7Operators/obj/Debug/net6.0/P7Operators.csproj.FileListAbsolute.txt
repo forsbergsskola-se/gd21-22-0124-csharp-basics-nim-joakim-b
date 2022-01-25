@@ -1,0 +1,15 @@
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\bin\Debug\net6.0\P7Operators.exe
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\bin\Debug\net6.0\P7Operators.deps.json
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\bin\Debug\net6.0\P7Operators.runtimeconfig.json
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\bin\Debug\net6.0\P7Operators.dll
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\bin\Debug\net6.0\ref\P7Operators.dll
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\bin\Debug\net6.0\P7Operators.pdb
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\obj\Debug\net6.0\P7Operators.csproj.AssemblyReference.cache
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\obj\Debug\net6.0\P7Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\obj\Debug\net6.0\P7Operators.AssemblyInfoInputs.cache
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\obj\Debug\net6.0\P7Operators.AssemblyInfo.cs
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\obj\Debug\net6.0\P7Operators.csproj.CoreCompileInputs.cache
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\obj\Debug\net6.0\P7Operators.dll
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\obj\Debug\net6.0\ref\P7Operators.dll
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\obj\Debug\net6.0\P7Operators.pdb
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\P7Operators\obj\Debug\net6.0\P7Operators.genruntimeconfig.cache
