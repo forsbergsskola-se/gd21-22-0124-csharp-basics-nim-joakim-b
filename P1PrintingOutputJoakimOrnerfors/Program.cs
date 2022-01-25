@@ -1,4 +1,4 @@
-﻿namespace YesICan
+﻿namespace YesICan2
 {
    class Program
    {
