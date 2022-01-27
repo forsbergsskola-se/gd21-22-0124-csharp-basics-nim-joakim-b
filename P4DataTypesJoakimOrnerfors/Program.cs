@@ -12,6 +12,7 @@ class Datatypes
         Console.WriteLine(OutputString);Console.WriteLine(decimalValue); 
         Console.WriteLine(isAwesome);Console.WriteLine(hexByte);
     }
+    
 }
 
 
