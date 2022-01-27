@@ -1,0 +1,15 @@
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\bin\Debug\net6.0\Nim.exe
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\bin\Debug\net6.0\Nim.deps.json
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\bin\Debug\net6.0\Nim.runtimeconfig.json
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\bin\Debug\net6.0\Nim.dll
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\bin\Debug\net6.0\ref\Nim.dll
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\bin\Debug\net6.0\Nim.pdb
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\obj\Debug\net6.0\Nim.csproj.AssemblyReference.cache
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\obj\Debug\net6.0\Nim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\obj\Debug\net6.0\Nim.AssemblyInfoInputs.cache
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\obj\Debug\net6.0\Nim.AssemblyInfo.cs
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\obj\Debug\net6.0\Nim.csproj.CoreCompileInputs.cache
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\obj\Debug\net6.0\Nim.dll
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\obj\Debug\net6.0\ref\Nim.dll
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\obj\Debug\net6.0\Nim.pdb
+C:\Project\gd21-22-0124-csharp-basics-nim-joakim-b\Nim\obj\Debug\net6.0\Nim.genruntimeconfig.cache
