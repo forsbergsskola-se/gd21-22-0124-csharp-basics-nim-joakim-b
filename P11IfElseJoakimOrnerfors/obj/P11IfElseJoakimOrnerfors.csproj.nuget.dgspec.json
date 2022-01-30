@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ornerfors\\Documents\\Projects\\gd21-22-0124-csharp-basics-nim-joakim-b\\Nim\\Nim.csproj": {}
+    "C:\\Users\\Ornerfors\\Documents\\Projects\\gd21-22-0124-csharp-basics-nim-joakim-b\\P11IfElseJoakimOrnerfors\\P11IfElseJoakimOrnerfors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ornerfors\\Documents\\Projects\\gd21-22-0124-csharp-basics-nim-joakim-b\\Nim\\Nim.csproj": {
+    "C:\\Users\\Ornerfors\\Documents\\Projects\\gd21-22-0124-csharp-basics-nim-joakim-b\\P11IfElseJoakimOrnerfors\\P11IfElseJoakimOrnerfors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ornerfors\\Documents\\Projects\\gd21-22-0124-csharp-basics-nim-joakim-b\\Nim\\Nim.csproj",
-        "projectName": "Nim",
-        "projectPath": "C:\\Users\\Ornerfors\\Documents\\Projects\\gd21-22-0124-csharp-basics-nim-joakim-b\\Nim\\Nim.csproj",
+        "projectUniqueName": "C:\\Users\\Ornerfors\\Documents\\Projects\\gd21-22-0124-csharp-basics-nim-joakim-b\\P11IfElseJoakimOrnerfors\\P11IfElseJoakimOrnerfors.csproj",
+        "projectName": "P11IfElseJoakimOrnerfors",
+        "projectPath": "C:\\Users\\Ornerfors\\Documents\\Projects\\gd21-22-0124-csharp-basics-nim-joakim-b\\P11IfElseJoakimOrnerfors\\P11IfElseJoakimOrnerfors.csproj",
         "packagesPath": "C:\\Users\\Ornerfors\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ornerfors\\Documents\\Projects\\gd21-22-0124-csharp-basics-nim-joakim-b\\Nim\\obj\\",
+        "outputPath": "C:\\Users\\Ornerfors\\Documents\\Projects\\gd21-22-0124-csharp-basics-nim-joakim-b\\P11IfElseJoakimOrnerfors\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ornerfors\\AppData\\Roaming\\NuGet\\NuGet.Config",

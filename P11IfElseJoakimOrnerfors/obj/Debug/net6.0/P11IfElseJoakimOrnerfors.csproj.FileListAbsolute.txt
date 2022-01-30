@@ -1,0 +1,15 @@
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\bin\Debug\net6.0\P11IfElseJoakimOrnerfors.exe
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\bin\Debug\net6.0\P11IfElseJoakimOrnerfors.deps.json
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\bin\Debug\net6.0\P11IfElseJoakimOrnerfors.runtimeconfig.json
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\bin\Debug\net6.0\P11IfElseJoakimOrnerfors.dll
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\bin\Debug\net6.0\ref\P11IfElseJoakimOrnerfors.dll
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\bin\Debug\net6.0\P11IfElseJoakimOrnerfors.pdb
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\obj\Debug\net6.0\P11IfElseJoakimOrnerfors.csproj.AssemblyReference.cache
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\obj\Debug\net6.0\P11IfElseJoakimOrnerfors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\obj\Debug\net6.0\P11IfElseJoakimOrnerfors.AssemblyInfoInputs.cache
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\obj\Debug\net6.0\P11IfElseJoakimOrnerfors.AssemblyInfo.cs
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\obj\Debug\net6.0\P11IfElseJoakimOrnerfors.csproj.CoreCompileInputs.cache
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\obj\Debug\net6.0\P11IfElseJoakimOrnerfors.dll
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\obj\Debug\net6.0\ref\P11IfElseJoakimOrnerfors.dll
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\obj\Debug\net6.0\P11IfElseJoakimOrnerfors.pdb
+C:\Users\Ornerfors\Documents\Projects\gd21-22-0124-csharp-basics-nim-joakim-b\P11IfElseJoakimOrnerfors\obj\Debug\net6.0\P11IfElseJoakimOrnerfors.genruntimeconfig.cache
